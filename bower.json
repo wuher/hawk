@@ -4,6 +4,7 @@
   "license": "./LICENSE",
   "ignore": [
     "lib/*",
+    "!lib/browser.js",
     "!dist",
     "!dist/browser.js"
   ],
